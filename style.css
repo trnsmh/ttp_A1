@@ -23,3 +23,16 @@ h1{
     font-weight:bolder;
     font-family:monospace;
 }
+fieldset label{
+    display:flex;
+    justify-content:flex-start;
+}
+fieldset input {
+    display:flex;
+}
+.text{ 
+    color:darkgreen;
+    font-size:25px;
+    font-weight:bold;
+    font-family:monospace;
+}
